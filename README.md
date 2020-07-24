@@ -1,1 +1,4 @@
 # GAS_NippoWebApp
+直接LineBotとやりとりしているプロジェクト。
+
+ライブラリとしてGAS_NippoLibraryプロジェクトを導入している。
