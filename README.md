@@ -4,7 +4,7 @@
 
 # 導入
 
-![QR](https://user-images.githubusercontent.com/53109614/88426032-64e70a00-ce2b-11ea-8f0a-08d12d9e4c16.png)
+![QR](https://user-images.githubusercontent.com/53109614/88427077-39651f00-ce2d-11ea-9b0e-4fc3cbe78385.png)
 
 # 仕様
 
